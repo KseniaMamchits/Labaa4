@@ -1,0 +1,6 @@
+C:\Users\Ksenia\source\repos\Laba4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+C:\Users\Ksenia\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\Ksenia\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\Ksenia\source\repos\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\Ksenia\source\repos\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\Ksenia\source\repos\Laba4\Laba4\obj\Debug\Laba4.pdb
